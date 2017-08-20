@@ -25,7 +25,7 @@
 * Cuotas por cobrar (Generar cuotas)
 * Contrato Prestamo
 
-**Pagos **
+**Pagos**
  
 * Valor Pago
 * Fecha Pago
